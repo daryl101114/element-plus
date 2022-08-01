@@ -28,8 +28,8 @@
 <script lang="ts" setup>
 import { ref } from 'vue'
 
-const parentBorder = ref(false)
-const childBorder = ref(false)
+const parentBorder = ref(Trues)
+const childBorder = ref(True)
 const tableData = [
   {
     date: '2016-05-03',
